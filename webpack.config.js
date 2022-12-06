@@ -5,7 +5,7 @@ module.exports = {
     mode: 'development',
     entry: path.resolve(__dirname, 'js', 'app.js'),
     devServer: {
-        port: 9000,
+        port: 5000,
         static: './css'
     },
     

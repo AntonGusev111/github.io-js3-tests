@@ -1,7 +1,7 @@
 {
   "name": "homework4",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "live-server src",
     "build": "webpack --mode production",
@@ -28,5 +28,6 @@
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.11.1"
   },
+"repository":"https://github.com/AntonGusev111/github.io-js3-tests.git",
   "description": ""
 }
